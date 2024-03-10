@@ -23,5 +23,5 @@ The UI design and prototype were created using Adobe XD, a vector-based design t
 Feedback and contributions are welcome! If you have any suggestions or would like to contribute to the project, please feel free to reach out.
 
 ## Credits
-- Designed by [Your Name]
-- Adobe XD Prototype by [Your Name]
+- Designed by ZAHID HASAN
+- Adobe XD Prototype by ZAHID HASAN
